@@ -1,4 +1,4 @@
-## Hi, I'm Zaw Htet Naing 👋
+## Hi, I'm Zaw Htet Naing
 
 📱 I've been immersed in **Mobile Development** for over 6 years.
 
